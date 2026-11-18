@@ -1,0 +1,4 @@
+interface:
+  display_name: "Core Idea 创意推导"
+  short_description: "从消费者洞察与产品依据，逐步推导可执行的核心创意并验证关联"
+  default_prompt: "使用 $core-idea-development，根据品牌与产品资料，从消费者关注的问题出发，逐步推导 Core Idea，说明每一步的依据、创意联想及产品与受众的联系。"
